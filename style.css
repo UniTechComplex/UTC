@@ -1,0 +1,25 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+#clock {
+    font-family:'Poppins',cursive;
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+#date {
+    font-size: 20px;
+    font-weight:400;
+
+}
+#time{
+      font-size: 20px;
+      font-weight:400;
+      
+      
+
+}
